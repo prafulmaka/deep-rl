@@ -1,2 +1,2 @@
 # deep-rl
-Deep Reinforcement Learning
+Deep Reinforcement Learning - Testing POC
